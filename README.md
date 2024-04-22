@@ -70,9 +70,10 @@ I will make each release available here on github. Look to your right to see the
 
 #### Latest Releases
 
-- [Download for Windows]()
-- [Download for Linux]()
-- [Download for MacOS]()
+- [Download for Windows](https://github.com/AndrewDonelson/canvafix/releases/download/0.1.0/canvafix-windows-amd64.exe)
+- [Download for Linux](https://github.com/AndrewDonelson/canvafix/releases/download/0.1.0/canvafix-linux-amd64)
+- [Download for MacOS](https://github.com/AndrewDonelson/canvafix/releases/download/0.1.0/canvafix-darwin-amd64)
+
 
 ### Final word
 
