@@ -1,6 +1,8 @@
 # canvafix
 Tool that fixes the Canva Bulk Create missing Audio bug on exported MP4 files
 
+Please note that I just tried downloaded the Windows Release version ind it is triggering a FALSE posative for virus "Trojan:Win32/Sabsik.FL.A!ml". The source code is here for you to compile, but its picking up on the file alterations being done to the MP4 files.
+
 ## Issue
 
 When you create a Project that has will use Bulk Create to connect data and make multiple pages (from the first)... when you download (as seperate files ticked) only the first MP4 will have the audio. The rest of the MP4s are silent.
